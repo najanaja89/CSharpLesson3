@@ -1,0 +1,7 @@
+C:\Users\тер\source\repos\PropetiesLesson\PropetiesLesson\bin\Debug\PropetiesLesson.exe.config
+C:\Users\тер\source\repos\PropetiesLesson\PropetiesLesson\bin\Debug\PropetiesLesson.exe
+C:\Users\тер\source\repos\PropetiesLesson\PropetiesLesson\bin\Debug\PropetiesLesson.pdb
+C:\Users\тер\source\repos\PropetiesLesson\PropetiesLesson\obj\Debug\PropetiesLesson.csprojAssemblyReference.cache
+C:\Users\тер\source\repos\PropetiesLesson\PropetiesLesson\obj\Debug\PropetiesLesson.csproj.CoreCompileInputs.cache
+C:\Users\тер\source\repos\PropetiesLesson\PropetiesLesson\obj\Debug\PropetiesLesson.exe
+C:\Users\тер\source\repos\PropetiesLesson\PropetiesLesson\obj\Debug\PropetiesLesson.pdb

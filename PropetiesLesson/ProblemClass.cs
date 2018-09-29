@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace PropetiesLesson
 {
-    class ProblemClass
+    namespace Problems
     {
-        public void BadAction()
+        class ProblemClass
         {
-            throw new NotImplementedException();
+            public void BadAction()
+            {
+                throw new NotImplementedException();
+            }
         }
     }
+   
 }

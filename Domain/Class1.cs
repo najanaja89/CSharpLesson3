@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public class Class1
+    public class User
     {
+        private int userId;
+        private string userName;
+        private string userSername;
+
+        public int GetUserId() { return userId; }
+        public string GetUserName() { return userName; }
+        public string GetUserSername() { return userSername; }
     }
 }

@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PropetiesLesson.Problems;
+using Domain;
 using static System.Console; //Дает не набирать в коде набирать слово консоль (Console.Writeline())
 
 namespace PropetiesLesson
-{    
+{
     class Program
     {
         static void Main(string[] args)
@@ -35,6 +36,21 @@ namespace PropetiesLesson
             {
                 //Отработает в любом случае
             }
+
+            Person person = new Person();
+            person.BirthDate = DateTime.Now; //аутосеттер
+            DateTime date = person.BirthDate; //аутогеттер
+
+
+           int[] numbers = { 1, 2, 3, 4, 5 };
+
+            //быстрый конструктор с параметрами, в классе создвать не надо
+            Person anotherPerson = new Person 
+            {
+                BirthDate = DateTime.Now
+            };
+
+
             Console.ReadLine();
         }
     }
